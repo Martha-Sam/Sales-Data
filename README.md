@@ -1,4 +1,4 @@
-## Samaluko_Capstone_LITAProject
+## SAMALUKOCapstone_LITAProject
 ### Sales Performance Analysis 
 
 ## Table of Contents
@@ -13,21 +13,21 @@
 
 ### 1. Overview
 ---
-This Data Analysis project aims to generate insight into the sales performance of Sales transactions from various regions and categories. The goal is to deliver an interactive and visually appealing dashboard that helps stakeholders easily understand sales performance across multiple dimensions and also Provides Insight into Revenune and other summaries contained within the data. 
+This Data Analysis project aims to generate insight into the sales performance of Sales transactions from various regions and categories. The goal is to deliver an interactive and visually appealing dashboard that helps stakeholders easily understand sales performance across multiple dimensions and also provides insight into Revenune and other summaries contained within the data. 
 
 ### 2. Data Source
 ---
-The Primary sourcs of Data here is Salesdata.csv and this is an open source that can was given to work with by the Incubators hub, tagged capstone project Dataset.
+The Primary source of Data here is Salesdata.csv and Customerdata.csv files, an open source that was given to work with by the Incubators hub, as a project.
 
-- Built a Power BI dashboard to visualize sales data, focusing on metrics like total sales, product performance, and regional breakdowns.
-- Incorporate findings from Excel and SQL analyses to ensure a comprehensive view of the data.
-- Enable users to interact with the dashboard and drill down into specific data points.
+- I, therefore, built a Power BI dashboard to visualize sales data, focusing on metrics like total sales by region and product, monthly sales trend, product performance, and regional breakdowns.
+- I Incorporated my findings from Excel and SQL to ensure a comprehensive view of the data.
 
 ### 3. Requirements/ Tools Used 
 ---
 - Microsoft Excel
-  1.  For Data cleanig (www.microsoft.com)
-     -*Excel File: Use the *Get Data option to connect to the Excel file. Select the relevant tables or sheets that contain summarized sales data, such as total sales, regional breakdowns, and monthly sales
+  1.  For Data cleaning (www.microsoft.com)
+     -*Excel File: On PowerBI, I used the *Get Data option to connect to the Excel file and Selected the relevant tables or sheets that contained summarized sales data, such as total sales, regional breakdowns, and monthly sales
+      
       
 - SQL server(For Quering and Analysis)
   2. Connect to Data Sources:
